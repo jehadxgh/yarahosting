@@ -1,0 +1,10 @@
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Core\bin\Debug\netstandard1.6\aspCart.Core.deps.json
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Core\bin\Debug\netstandard1.6\aspCart.Core.dll
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Core\bin\Debug\netstandard1.6\aspCart.Core.pdb
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Core\obj\Debug\netstandard1.6\aspCart.Core.csproj.AssemblyReference.cache
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Core\obj\Debug\netstandard1.6\aspCart.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Core\obj\Debug\netstandard1.6\aspCart.Core.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Core\obj\Debug\netstandard1.6\aspCart.Core.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Core\obj\Debug\netstandard1.6\aspCart.Core.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Core\obj\Debug\netstandard1.6\aspCart.Core.dll
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Core\obj\Debug\netstandard1.6\aspCart.Core.pdb
