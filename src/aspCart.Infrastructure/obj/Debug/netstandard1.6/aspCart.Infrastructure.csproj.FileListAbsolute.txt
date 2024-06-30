@@ -1,0 +1,13 @@
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\bin\Debug\netstandard1.6\aspCart.Infrastructure.deps.json
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\bin\Debug\netstandard1.6\aspCart.Infrastructure.dll
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\bin\Debug\netstandard1.6\aspCart.Infrastructure.pdb
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\bin\Debug\netstandard1.6\aspCart.Core.dll
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\bin\Debug\netstandard1.6\aspCart.Core.pdb
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\obj\Debug\netstandard1.6\aspCart.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\obj\Debug\netstandard1.6\aspCart.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\obj\Debug\netstandard1.6\aspCart.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\obj\Debug\netstandard1.6\aspCart.Infrastructure.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\obj\Debug\netstandard1.6\aspCart.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\obj\Debug\netstandard1.6\aspCart..80AABE60.Up2Date
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\obj\Debug\netstandard1.6\aspCart.Infrastructure.dll
+C:\Users\ahmad\Desktop\ITE_BWP401_majd_239909_C4_F23\ITE_BWP401_majd_239909_C4_F23\Files\src\aspCart.Infrastructure\obj\Debug\netstandard1.6\aspCart.Infrastructure.pdb

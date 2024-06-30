@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ahmad\\Desktop\\ITE_BWP401_majd_239909_C4_F23\\ITE_BWP401_majd_239909_C4_F23\\Files\\src\\aspCart.Infrastructure\\aspCart.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ahmad\\Desktop\\ITE_BWP401_majd_239909_C4_F23\\ITE_BWP401_majd_239909_C4_F23\\Files\\src\\aspCart.Core\\aspCart.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\ITE_BWP401_majd_239909_C4_F23\\ITE_BWP401_majd_239909_C4_F23\\Files\\src\\aspCart.Core\\aspCart.Core.csproj",
+        "projectName": "aspCart.Core",
+        "projectPath": "C:\\Users\\ahmad\\Desktop\\ITE_BWP401_majd_239909_C4_F23\\ITE_BWP401_majd_239909_C4_F23\\Files\\src\\aspCart.Core\\aspCart.Core.csproj",
+        "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmad\\Desktop\\ITE_BWP401_majd_239909_C4_F23\\ITE_BWP401_majd_239909_C4_F23\\Files\\src\\aspCart.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "targetAlias": "netstandard1.6",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "targetAlias": "netstandard1.6",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "dnxcore50"
+          ],
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmad\\Desktop\\ITE_BWP401_majd_239909_C4_F23\\ITE_BWP401_majd_239909_C4_F23\\Files\\src\\aspCart.Infrastructure\\aspCart.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\ITE_BWP401_majd_239909_C4_F23\\ITE_BWP401_majd_239909_C4_F23\\Files\\src\\aspCart.Infrastructure\\aspCart.Infrastructure.csproj",
+        "projectName": "aspCart.Infrastructure",
+        "projectPath": "C:\\Users\\ahmad\\Desktop\\ITE_BWP401_majd_239909_C4_F23\\ITE_BWP401_majd_239909_C4_F23\\Files\\src\\aspCart.Infrastructure\\aspCart.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmad\\Desktop\\ITE_BWP401_majd_239909_C4_F23\\ITE_BWP401_majd_239909_C4_F23\\Files\\src\\aspCart.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "targetAlias": "netstandard1.6",
+            "projectReferences": {
+              "C:\\Users\\ahmad\\Desktop\\ITE_BWP401_majd_239909_C4_F23\\ITE_BWP401_majd_239909_C4_F23\\Files\\src\\aspCart.Core\\aspCart.Core.csproj": {
+                "projectPath": "C:\\Users\\ahmad\\Desktop\\ITE_BWP401_majd_239909_C4_F23\\ITE_BWP401_majd_239909_C4_F23\\Files\\src\\aspCart.Core\\aspCart.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "targetAlias": "netstandard1.6",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "dnxcore50"
+          ],
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
